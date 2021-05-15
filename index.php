@@ -25,7 +25,7 @@
 		</div>
 	</div>
 	<div class="divContainer">
-		<button id="myButton">Activate Extension</button>
+		<button id="extensionButton">Enable Extension</button>
 	</div>
 
 	<script src="script.js"></script>
