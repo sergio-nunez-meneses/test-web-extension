@@ -1,0 +1,38 @@
+/* reset */
+
+body {
+    margin: 0;
+}
+
+/* CSS */
+
+body {
+    /*background-color: #34d1bf;*/
+}
+
+.divContainer, .removeDiv {
+    display: flex;
+    padding: 1rem;
+    border: 1px solid #000000;
+}
+
+.divContainer {
+    justify-content: center;
+
+}
+
+.divContainer:last-of-type {
+    margin-top: 0.5rem;
+}
+
+.removeDiv {
+    width: 320px;
+    height: 240px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0.5rem;
+}
+
+button {
+    height: 30px;
+}
